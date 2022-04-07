@@ -1,8 +1,16 @@
 ![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner.png)
 
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
-</h2>
+Full Stack Developer
+</h2><br />
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<p>I´m an Argentinean Full Stack Developer, but at the same time I´m much more than that. I believe that because of my history I can bring to any team a unique perspective. During the last 10 years I traveled to 14 countries, volunteering and working in very different things. Getting to know all of those cultures and ways of doing things made my understanding of people wider than before.
+<br />
+At the moment I'm immersed full-time on strengthening my capabilities as a full stack developer. My main source of knowledge for now is the Henry bootcamp, but at the same time I´m using other sources like freecodecamp, stack overflow and others... While I search for a job I plan as my next step, to learn typescript and Next JS.
+My goal is to keep learning and get a good job to learn even more while improving my life standard.
+Hire me and you will soon know you made the right choice.
+</p>
 
 &nbsp;&nbsp;
 ## :star: Languages and Tools:
