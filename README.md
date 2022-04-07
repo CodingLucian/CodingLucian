@@ -11,8 +11,8 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 
 
-## :paperclip: CONTACT ME:
-<span >
+## :paperclip: CONTACT ME: <span >
+
 <a href="https://www.linkedin.com/in/luciano-durietz/" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Logo-Linkedin.png"> &nbsp;
 <a href="mailto:luciano.durietz@gmail.com" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/LogoGmail.png">
 </span>
