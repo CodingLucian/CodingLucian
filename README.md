@@ -1,4 +1,4 @@
-![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner.png)
+![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner1.png)
 
 <h2 align="center">
 Full Stack Developer
