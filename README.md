@@ -15,9 +15,14 @@ Hire me and you will soon know you made the right choice.
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Project:
 
+<p>
+This is my first full stack developer work.
+I did it from scratch to use as the final presentation for the Henry bootcamp using all the knowlendge I got from it. Please feel free to give me some feedback. Thanks.
+</p>
+<br />
 <span >
 <a href="https://countries-pi-lcd.vercel.app/countries" >Check it out</a> &nbsp;
-<img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countr">
+<img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countries01.png">
 </span>
 
 
