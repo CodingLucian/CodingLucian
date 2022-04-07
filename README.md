@@ -1,14 +1,20 @@
-### Hi there 👋
+![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner.png)
+
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
+
+&nbsp;&nbsp;
 
 
 
 
 
 
-## :paperclip: How to reach me:
+## :paperclip: CONTACT ME:
 <span >
-<a href="https://www.linkedin.com/in/luciano-durietz/" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/img/Logo-Linkedin.png> &nbsp;
-<a href="mailto:luciano.durietz@gmail.com" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/img/LogoGmail.png">
+<a href="https://www.linkedin.com/in/luciano-durietz/" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Logo-Linkedin.png"> &nbsp;
+<a href="mailto:luciano.durietz@gmail.com" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/LogoGmail.png">
 </span>
 
 
