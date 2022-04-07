@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+
+
+
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/luciano-durietz/" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/img/Logo-Linkedin.png> &nbsp;
+<a href="mailto:luciano.durietz@gmail.com" ><img width="5%" src="https://github.com/CodingLucian/CodingLucian/img/LogoGmail.png">
+</span>
+
+
 <!--
 **CodingLucian/CodingLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
