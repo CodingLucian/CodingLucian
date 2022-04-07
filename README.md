@@ -11,6 +11,16 @@ At the moment I'm immersed full-time on strengthening my capabilities as a full 
 My goal is to keep learning and get a good job to learn even more while improving my life standard.
 Hire me and you will soon know you made the right choice.
 </p>
+&nbsp;&nbsp;
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Project:
+
+<span >
+<a href="https://countries-pi-lcd.vercel.app/countries" >Check it out</a> &nbsp;
+<img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countr">
+</span>
+
+
 
 &nbsp;&nbsp;
 ## :star: Languages and Tools:
