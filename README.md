@@ -13,7 +13,18 @@ Hire me and you will soon know you made the right choice.
 </p>
 &nbsp;&nbsp;
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Project:
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Projects:
+
+<p>
+This is my first frontend developer project working in a team.
+We did it from scratch as the final job for the Henry bootcamp. Please feel free to give me some feedback. Thanks.
+  
+You can click on the Image to check it out!!!
+</p>
+<br />
+<span >
+<a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> &nbsp;
+</span>
 
 <p>
 This is my first full stack developer work.
