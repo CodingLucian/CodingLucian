@@ -1,4 +1,4 @@
-<div> 
+
 ![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner1.png)
 
 <h2 align="center">
@@ -68,7 +68,7 @@ You can click on the Image to check it out!!!
 <a href="mailto:luciano.durietz@gmail.com" ><img width="10%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/LogoGmail.png">
 </span>
 
-  </div>
+
 <!--
 **CodingLucian/CodingLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
