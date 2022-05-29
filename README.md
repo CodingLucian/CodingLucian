@@ -26,6 +26,7 @@ You can click on the Image to check it out!!!
 <a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> &nbsp;
 </span>
 <br />
+&nbsp;&nbsp;
 <p>
 This was my first full stack developer work.
 I did it from scratch to use as the final presentation for the Henry bootcamp using all the knowlendge I got from it. Please feel free to give me some feedback. Thanks.
