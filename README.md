@@ -16,7 +16,7 @@ Hire me and you will soon know you made the right choice.
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Projects:
 
 <p>
-This is my first frontend developer project working in a team.
+This was my first frontend developer project working in a team.
 We did it from scratch as the final job for the Henry bootcamp. Please feel free to give me some feedback. Thanks.
   
 You can click on the Image to check it out!!!
@@ -25,9 +25,9 @@ You can click on the Image to check it out!!!
 <span >
 <a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> &nbsp;
 </span>
-
+<br />
 <p>
-This is my first full stack developer work.
+This was my first full stack developer work.
 I did it from scratch to use as the final presentation for the Henry bootcamp using all the knowlendge I got from it. Please feel free to give me some feedback. Thanks.
   
 You can click on the Image to check it out!!!
