@@ -21,7 +21,6 @@ We did it from scratch as the final job for the Henry bootcamp. Please feel free
   
 You can click on the Image to check it out!!!
 </p>
-<br />
 <span >
 <a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> &nbsp;
 </span>
