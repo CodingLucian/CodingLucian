@@ -1,7 +1,7 @@
-<div style="color:white; background-color:black"> 
+<div> 
 ![Hi, I'm Luciano](https://github.com/CodingLucian/CodingLucian/blob/main/img/banner1.png)
 
-<h2 align="center" color="white" background-color="black">
+<h2 align="center">
 Full Stack Developer
 </h2><br />
 
