@@ -19,10 +19,10 @@ Hire me and you will soon know you made the right choice.
 This was my first frontend developer project working in a team.
 We did it from scratch as the final job for the Henry bootcamp. Please feel free to give me some feedback. Thanks.
   
-You can click on the Image to check it out!!!
+You can click on the Image to check it out!!! Or watch the presentation <a href="https://vimeo.com/708793487" target="blanck">here </a>
 </p>
 <span >
-<a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> or watch the presentation <a href="https://vimeo.com/708793487">here </a>
+<a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> 
 &nbsp;
 </span>
 <br />
