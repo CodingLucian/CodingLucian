@@ -32,7 +32,6 @@ I did it from scratch to use as the final presentation for the Henry bootcamp us
   
 You can click on the Image to check it out!!!
 </p>
-<br />
 <span >
 <a href="https://countries-pi-lcd.vercel.app/countries"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countries01.png"></a> &nbsp;
 </span>
