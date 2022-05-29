@@ -19,10 +19,10 @@ Hire me and you will soon know you made the right choice.
 This was my first frontend developer project working in a team.
 We did it from scratch as the final job for the Henry bootcamp. Please feel free to give me some feedback. Thanks.
   
-You can click on the Image to check it out!!! Or watch the presentation <a href="https://vimeo.com/708793487" target="blanck">here </a>
+You can click on the Image to check it out!!! Or watch the presentation <a href="https://vimeo.com/708793487" target="_blank">here </a>
 </p>
 <span >
-<a href="https://soyhostel.com/"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> 
+<a href="https://soyhostel.com/" target="_blank"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/soyHostel.png"></a> 
 &nbsp;
 </span>
 <br />
@@ -34,7 +34,7 @@ I did it from scratch to use as the final presentation for the Henry bootcamp us
 You can click on the Image to check it out!!!
 </p>
 <span >
-<a href="https://countries-pi-lcd.vercel.app/countries"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countries01.png"></a> &nbsp;
+<a href="https://countries-pi-lcd.vercel.app/countries" target="_blank"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countries01.png"></a> &nbsp;
 </span>
 
 
