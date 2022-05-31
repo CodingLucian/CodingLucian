@@ -38,6 +38,16 @@ You can click on the Image to check it out!!!
 <a href="https://countries-pi-lcd.vercel.app/countries" target="_blank"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/Countries01.png"></a> &nbsp;
 </span>
 
+<br />
+&nbsp;&nbsp;
+<p>
+I developed this small app as a challenge to get an extra full stack developer certification from Alkemy. The goal was to be able to register a user and input incomes and expenses, edit and delet them and visualise the las 10 movements on the home page. Please feel free to give me some feedback. Thanks.
+  
+You can click on the Image to check it out!!!
+</p>
+<span >
+<a href="https://countries-pi-lcd.vercel.app/countries" target="_blank"><img width="50%" src="https://github.com/CodingLucian/CodingLucian/blob/main/img/accounting.jpg"></a> &nbsp;
+</span>
 
 
 &nbsp;&nbsp;
